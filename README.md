@@ -21,4 +21,4 @@ Block Puzzle is a logic-based game where players must fit blocks into a grid to 
 
 ---
 https://play.google.com/store/apps/details?id=com.kid.blockpuzzle
-*Note: This project is published on the Google Play Store.*
+-*Note: This project is published on the Google Play Store.*
